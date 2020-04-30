@@ -1,5 +1,5 @@
 .headerSection {
-    background-color: #E20074;
+    background-color: #6264A7;
     color: #fff;
     padding: 10px 10px 20px 10px;
     font-size: 20px;
@@ -17,7 +17,7 @@
 }
 
 .faqQuestionsList span {
-    color: #E20074;
+    color: #6264A7;
     display: block;
     padding-bottom: 5px;
 }
@@ -50,7 +50,7 @@
 
 .acc-item{
     float: left;
-    color: #e20074;
+    color: #6264A7;
     cursor: pointer;
     width: 100%;
     margin: 5px 0;
@@ -82,26 +82,26 @@
 
 .titlefullrow{
     margin: 10px 20px;
-    border: 1px solid #e20074;
+    border: 1px solid #6264A7;
     border-radius: 5px;
 }
 
 .titlefullrow:hover{
-    box-shadow: inset 0 0 5px #e20074;
+    box-shadow: inset 0 0 5px #6264A7;
   transition: box-shadow 0.3s ease-in-out;
 }
 
 .titlecol3row {
     width: calc(33.33% - 40px);
     float: left;
-    border: 1px solid #e20074;
+    border: 1px solid #6264A7;
     box-sizing: border-box;
     margin: 10px 20px;
     border-radius: 5px;
 }
 
 .titlecol3row:hover{
-    box-shadow: inset 0 0 5px #e20074;
+    box-shadow: inset 0 0 5px #6264A7;
   transition: box-shadow 0.3s ease-in-out;
 }
 
@@ -114,7 +114,7 @@
 }
 
 .titlecol3row:hover .titlefaqTitle, .titlefullrow:hover .titlefaqTitle{
-    color: #E20074;
+    color: #6264A7;
 }
 
 .acc-item-panel{
@@ -130,7 +130,7 @@
     font-size: 18px;
     margin-bottom: 15px;
     font-weight: 600;
-    border: 1px solid #e20074;
+    border: 1px solid #6264A7;
     border-radius: 4px;
 }
 
@@ -146,7 +146,7 @@
     font-size: 12px;
     text-align: right;
     text-decoration: underline;
-    color: #e20074;
+    color: #6264A7;
 }
 
 .acc-span-text{
@@ -195,7 +195,7 @@
   font-family: 'Tele-GroteskHal' !important;
   font-weight: 300;
   font-size: 20px;
-  border: 1px solid #e20074;
+  border: 1px solid #6264A7;
   border-radius: 30px;
   box-sizing: border-box;
 }
@@ -276,9 +276,9 @@
 }
 
 .acc-answer a {
-  color: #e20074 !important;
+  color: #6264A7 !important;
 }
 
 .acc-answer a span{
-  color: #e20074 !important;
+  color: #6264A7 !important;
 }
